@@ -4,3 +4,4 @@
 
 ### Pipeline architecture
 
+![arquitectura-1](https://github.com/lucassingh/big-data-f1/assets/25686886/067d5844-4197-428b-9444-1e7e452bf765)
